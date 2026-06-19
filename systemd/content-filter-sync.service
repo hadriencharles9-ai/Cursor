@@ -1,0 +1,7 @@
+[Unit]
+Description=Synchroniser le blocage horaire au démarrage
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/content-filter.sh sync

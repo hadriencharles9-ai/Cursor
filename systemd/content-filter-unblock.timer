@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer déblocage quotidien à 17h00
+
+[Timer]
+OnCalendar=*-*-* 17:00:00
+Persistent=true
+Unit=content-filter-unblock.service
+
+[Install]
+WantedBy=timers.target

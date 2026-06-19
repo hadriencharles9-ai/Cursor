@@ -1,0 +1,7 @@
+[Unit]
+Description=Désactiver le blocage des réseaux sociaux et streaming (17h)
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/content-filter.sh unblock
