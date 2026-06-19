@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer blocage quotidien à 23h00
+
+[Timer]
+OnCalendar=*-*-* 23:00:00
+Persistent=true
+Unit=content-filter-block.service
+
+[Install]
+WantedBy=timers.target
