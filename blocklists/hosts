@@ -1,0 +1,52 @@
+# Block streaming and social apps via /etc/hosts
+# Usage: append these lines to /etc/hosts (requires admin rights)
+
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 musical.ly
+0.0.0.0 byteoversea.com
+0.0.0.0 ibyteimg.com
+0.0.0.0 snssdk.com
+0.0.0.0 muscdn.com
+
+# Instagram
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 ig.me
+
+# Pinterest
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 pinterest.fr
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
+0.0.0.0 nflximg.net
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+
+# Amazon Prime Video
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 amazonvideo.com
+0.0.0.0 atv-ps.amazon.com
+0.0.0.0 aiv-cdn.net
+
+# HBO / Max
+0.0.0.0 max.com
+0.0.0.0 www.max.com
+0.0.0.0 hbomax.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 hbo.com
+0.0.0.0 www.hbo.com
+0.0.0.0 hbogo.com
+0.0.0.0 warnermediacdn.com
