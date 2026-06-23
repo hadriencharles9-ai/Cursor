@@ -1,0 +1,65 @@
+# Blocklist for streaming and social apps
+# Compatible with custom DNS filters, parental controls, and proxy blocklists
+
+apps:
+  tiktok:
+    name: TikTok
+    domains:
+      - tiktok.com
+      - www.tiktok.com
+      - tiktokv.com
+      - tiktokcdn.com
+      - tiktokcdn-us.com
+      - musical.ly
+      - byteoversea.com
+      - ibyteimg.com
+      - snssdk.com
+      - muscdn.com
+
+  instagram:
+    name: Instagram
+    domains:
+      - instagram.com
+      - www.instagram.com
+      - cdninstagram.com
+      - ig.me
+
+  pinterest:
+    name: Pinterest
+    domains:
+      - pinterest.com
+      - www.pinterest.com
+      - pinimg.com
+      - pinterest.fr
+
+  netflix:
+    name: Netflix
+    domains:
+      - netflix.com
+      - www.netflix.com
+      - nflxext.com
+      - nflximg.com
+      - nflximg.net
+      - nflxso.net
+      - nflxvideo.net
+
+  prime_video:
+    name: Amazon Prime Video
+    domains:
+      - primevideo.com
+      - www.primevideo.com
+      - amazonvideo.com
+      - atv-ps.amazon.com
+      - aiv-cdn.net
+
+  hbo:
+    name: HBO / Max
+    domains:
+      - max.com
+      - www.max.com
+      - hbomax.com
+      - www.hbomax.com
+      - hbo.com
+      - www.hbo.com
+      - hbogo.com
+      - warnermediacdn.com

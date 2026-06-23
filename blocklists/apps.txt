@@ -1,0 +1,44 @@
+# Pi-hole / AdGuard Home blocklist
+# Format: ||domain^ blocks domain and all subdomains
+
+# TikTok
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||tiktokcdn-us.com^
+||musical.ly^
+||byteoversea.com^
+||ibyteimg.com^
+||snssdk.com^
+||muscdn.com^
+
+# Instagram
+||instagram.com^
+||cdninstagram.com^
+||ig.me^
+
+# Pinterest
+||pinterest.com^
+||pinimg.com^
+||pinterest.fr^
+
+# Netflix
+||netflix.com^
+||nflxext.com^
+||nflximg.com^
+||nflximg.net^
+||nflxso.net^
+||nflxvideo.net^
+
+# Amazon Prime Video
+||primevideo.com^
+||amazonvideo.com^
+||atv-ps.amazon.com^
+||aiv-cdn.net^
+
+# HBO / Max
+||max.com^
+||hbomax.com^
+||hbo.com^
+||hbogo.com^
+||warnermediacdn.com^
